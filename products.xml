@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<top>
+  <product>
+    <code>21233</code>
+    <name>Carpets</name>
+    <category>Dyed</category>
+    <desc>Alladins personal</desc>
+    <remarks>Multiple locations</remarks>
+    <price>12000</price>
+    <init_qty>220</init_qty>
+    <location>Jaipur</location>
+  </product>
+  <product>
+    <code>9879</code>
+    <name>Jackets</name>
+    <category>None Selected</category>
+    <desc>Good clothes</desc>
+    <remarks>Well</remarks>
+    <price>2200</price>
+    <init_qty>25</init_qty>
+    <location>Kolkata</location>
+  </product>
+  <product>
+    <code>2341</code>
+    <name>Laptops</name>
+    <category>None Selected</category>
+    <desc>None</desc>
+    <remarks>None</remarks>
+    <price>24000</price>
+    <init_qty>9</init_qty>
+    <location>Delhi</location>
+  </product>
+  <product>
+    <code>21256</code>
+    <name>Napkins</name>
+    <category>Clothes</category>
+    <desc>Scented Napkins</desc>
+    <remarks/>
+    <price>10</price>
+    <init_qty>200</init_qty>
+    <location>Jaipur</location>
+  </product>
+  <product>
+    <code>558871</code>
+    <name>Football jersey</name>
+    <category>None Selected</category>
+    <desc>gerrard</desc>
+    <remarks/>
+    <price>5000</price>
+    <init_qty>21</init_qty>
+    <location>Jaipur</location>
+  </product>
+  <product>
+    <code>572741</code>
+    <name>mouse</name>
+    <category>None Selected</category>
+    <desc/>
+    <remarks/>
+    <price>500</price>
+    <init_qty>40</init_qty>
+    <location>Delhi</location>
+  </product>
+  <product>
+    <code>801367</code>
+    <name>keyboard</name>
+    <category>None Selected</category>
+    <desc/>
+    <remarks/>
+    <price>870</price>
+    <init_qty>30</init_qty>
+    <location>kolkata</location>
+  </product>
+  <product>
+    <code>189208</code>
+    <name>Pajamas</name>
+    <category>Clothes</category>
+    <desc/>
+    <remarks/>
+    <price>1200</price>
+    <init_qty>30</init_qty>
+    <location>bangalore</location>
+  </product>
+  <product>
+    <code>487844</code>
+    <name>wire</name>
+    <category>None Selected</category>
+    <desc/>
+    <remarks/>
+    <price>2340</price>
+    <init_qty>23</init_qty>
+    <location>bangalore</location>
+  </product>
+  <product>
+    <code>400091</code>
+    <name>Bottles</name>
+    <category>None Selected</category>
+    <desc/>
+    <remarks/>
+    <price>30</price>
+    <init_qty>30</init_qty>
+    <location>patna</location>
+  </product>
+  <product>
+    <code>21233</code>
+    <name>Carpets</name>
+    <category>Dyed</category>
+    <desc>Alladins personal</desc>
+    <remarks>Multiple locations</remarks>
+    <price>12000</price>
+    <init_qty>30</init_qty>
+    <location>Kanpur</location>
+  </product>
+  <product>
+    <code>572741</code>
+    <name>mouse</name>
+    <category>None Selected</category>
+    <desc/>
+    <remarks/>
+    <price>500</price>
+    <init_qty>5</init_qty>
+    <location>kolkata</location>
+  </product>
+  <product>
+    <code>858248</code>
+    <name>Computers</name>
+    <category>Electronics</category>
+    <desc>Intel i5,  RAM 4GB</desc>
+    <remarks/>
+    <price>35000</price>
+    <init_qty>25</init_qty>
+    <location>patna</location>
+  </product>
+</top>
